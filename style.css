@@ -1,0 +1,104 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fff8f0;
+    color: #4b2e2e;
+}
+.navbar {
+    background-color: #6f3e37;
+    padding: 15px;
+    text-align: center;
+}
+.navbar h2 {
+    color: #ffe4c4;
+}
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    font-size: 16px;
+}
+.navbar a:hover {
+    color: #ffc0cb;
+}
+.home {
+    background-color: #fce4ec;
+    text-align: center;
+    padding: 30px;
+}
+.home h1 {
+    color: #8b4513;
+    font-size: 35px;
+}
+.home p {
+    font-size: 18px;
+}
+.home img {
+    width: 60%;
+    max-width: 500px;
+    height: 280px;
+    border-radius: 10px;
+}
+.section {
+    text-align: center;
+    padding: 30px 10px;
+}
+.section h1 {
+    color: #8b4513;
+    font-size: 30px;
+}
+.product {
+    display: inline-block;
+    background-color: white;
+    width: 250px;
+    margin: 12px;
+    padding: 12px;
+    border: 1px solid #e5c5b5;
+    border-radius: 10px;
+    vertical-align: top;
+}
+.product img {
+    width: 100%;
+    height: 180px;
+    border-radius: 8px;
+}
+.product h3 {
+    color: #8b4513;
+}
+.product p {
+    color: #6f3e37;
+    font-size: 15px;
+}
+.offers {
+    background-color: #f8c8dc;
+    color: #6f3e37;
+    text-align: center;
+    padding: 30px;
+    margin: 20px 0;
+}
+
+.offers h1 {
+    color: #8b4513;
+}
+.gallery-img {
+    display: inline-block;
+    width: 250px;
+    height: 180px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.contact {
+    background-color: #fce4ec;
+    text-align: center;
+    padding: 30px;
+}
+.contact h1 {
+    color: #8b4513;
+}
+.footer {
+    background-color: #6f3e37;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
